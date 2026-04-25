@@ -1,8 +1,8 @@
 # Olá, eu sou o João Guilherme! 💻
 
-🚀 Sobre mim
+Sobre mim
 
-Estou aprendendo/trabalhando com Next e Nuxt. 
+Estou aprendendo/trabalhando com Next e Nuxt. ✳️
 - 🔭 Atualmente estou trabalhando em To-do-List
 - 🌱 Estou aprendendo Next, CSS
 - 💬 Pergunte-me sobre Javascript, Typescript
