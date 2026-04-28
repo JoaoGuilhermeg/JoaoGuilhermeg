@@ -1,4 +1,4 @@
-# Olá, eu sou o João Guilherme! 💻
+#Eu sou o João Guilherme! 💻
 
 Sobre mim
 
