@@ -10,4 +10,4 @@ Estou aprendendo/trabalhando com Next e Nuxt. ✳️
 🛠 Tecnologias
 | Linguagens | Frameworks/Libs | Ferramentas |
 
-| JavaScript, Typescript, Python, Java, SQL | React, Node.js, Supabase | Git |
+| JavaScript, Typescript, Python, SQL | React, Node.js
